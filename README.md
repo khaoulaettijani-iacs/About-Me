@@ -25,6 +25,7 @@ My long-term vision is to create intelligent and secure systems that help indivi
 ## **AI & Data**
 * Python for AI
 * Machine Learning
+* Data Science
 * Deep Learning (CNN, RNN, Transformers)
 * Data Analysis & Visualization
 * LLMs, RAG, Prompt Engineering
@@ -62,9 +63,6 @@ Here I document my learning projects — small, medium, and long-term.
 * AI for security use cases
 * ML/DL mini-projects
 * Ethical hacking labs (write-ups)
-
-## 🧭 Workflow & Project Management
-I use modern tools such as ClickUp, Notion, and GitHub Projects to organize tasks, manage priorities, and maintain clarity across engineering and research work.
 
 ## 📫 Connect With Me
 * **LinkedIn:** www.linkedin.com/in/khaoula-ettijani-ai-cyber
