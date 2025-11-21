@@ -64,6 +64,9 @@ Here I document my learning projects — small, medium, and long-term.
 * ML/DL mini-projects
 * Ethical hacking labs (write-ups)
 
+🧭 Workflow & Project Management
+I use modern tools such as ClickUp, Notion, and GitHub Projects to organize tasks, manage priorities, and maintain clarity across engineering and research work.
+
 ## 📫 Connect With Me
 * **LinkedIn:** www.linkedin.com/in/khaoula-ettijani-ai-cyber
 * **Email:** khaoulaettijani19@gmail.com
