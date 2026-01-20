@@ -1,22 +1,20 @@
 # 👋 About Me
 ## **Hi, I’m Khaoula — an Engineering Student in Artificial Intelligence & Cybersecurity**
-I’m passionate about building at the intersection of **AI**, **Cybersecurity**, **Machine Learning**, **Data Science**, and **Software Engineering**.
-My long-term vision is to create intelligent and secure systems that help individuals and organizations grow safely in a digital world.
+I’m passionate about building at the intersection of **AI**, **Cybersecurity**, **Machine Learning**, **Data Science**, and **AI Security**.
+My long-term vision is to create AI systems and secure them to help individuals and organizations grow safely in a digital world.
 
 # 🧠 Who Am I?
 * 🎓 **AI & Cybersecurity Engineering Student**
 * 🤖 **Artificial Intelligence Enthusiast** (ML, DL, LLMs, Generative AI)
 * 🛡️ **Cybersecurity Enthusiast** (Ethical Hacking, Cyber Defense, Zero Trust Architecture)
-* 💻 **Software Engineering & IT Learner**
-* 🚀 **Aspiring Founder — Building SecureMind (SM Consulting)**
-  *A 2-year journey toward launching an academy, consulting services, and secure AI-powered solutions.*
+* 💻 **AI Security Learner**
 
 # 🎯 What I Focus On
-* The **intersection** of AI and Cybersecurity
+* The **intersection** of AI and Cybersecurit
 * Machine Learning & Deep Learning
 * Ethical Hacking & Cyber Defense
 * Secure AI systems
-* Data Science fundamentals
+* Data Science and Data Analytics fundamentals
 * Software engineering practices
 * Cloud, DevOps & automation
 > “I believe the future belongs to systems that are **intelligent, secure, and ethical**.”
@@ -55,17 +53,13 @@ Here I document my learning projects — small, medium, and long-term.
 
 ## **🟣 Active Projects**
 
-* *AI & Cybersecurity weekly learning projects*
-* *SecureMind (SM Consulting) — 2-year pre-launch phase*
+* *AI & Cybersecurity learning projects*
 
 ## **🟢 Planned Monthly Projects**
 
 * AI for security use cases
-* ML/DL mini-projects
-* Ethical hacking labs (write-ups)
-
-## 🧭 Workflow & Project Management
-I use modern tools such as ClickUp, Notion, and GitHub Projects to organize tasks, manage priorities, and maintain clarity across engineering and research work.
+* Academic projects
+* Cybersecurity labs (write-ups)
 
 ## 📫 Connect With Me
 * **LinkedIn:** www.linkedin.com/in/khaoula-ettijani-ai-cyber
@@ -74,4 +68,4 @@ I use modern tools such as ClickUp, Notion, and GitHub Projects to organize task
 
 ## 🌱 Continuous Improvement
 This repository will grow with me — every month, every skill, every project.
-It's my digital home for documenting my journey as an **AI & Cybersecurity Engineer** and a future tech founder.
+It's my digital home for documenting my journey as an **AI & Cybersecurity Engineer**.
