@@ -1,71 +1,188 @@
-# 👋 About Me
-## **Hi, I’m Khaoula — an Engineering Student in Artificial Intelligence & Cybersecurity**
-I’m passionate about building at the intersection of **AI**, **Cybersecurity**, **Machine Learning**, **Data Science**, and **AI Security**.
-My long-term vision is to create AI systems and secure them to help individuals and organizations grow safely in a digital world.
+# 👋 Hi, I'm Khaoula Ettijani
 
-# 🧠 Who Am I?
-* 🎓 **AI & Cybersecurity Engineering Student**
-* 🤖 **Artificial Intelligence Enthusiast** (ML, DL, LLMs, Generative AI)
-* 🛡️ **Cybersecurity Enthusiast** (Ethical Hacking, Cyber Defense, Zero Trust Architecture)
-* 💻 **AI Security Learner**
+## AI & Cybersecurity Engineering Student | Building Secure Intelligent Systems
+I'm on a mission to bridge **Artificial Intelligence** and **Cybersecurity** — creating intelligent systems that are not just powerful, but fundamentally secure and trustworthy.
 
-# 🎯 What I Focus On
-* The **intersection** of AI and Cybersecurit
-* Machine Learning & Deep Learning
-* Ethical Hacking & Cyber Defense
-* Secure AI systems
-* Data Science and Data Analytics fundamentals
-* Software engineering practices
-* Cloud, DevOps & automation
-> “I believe the future belongs to systems that are **intelligent, secure, and ethical**.”
+## 🎯 My Vision
+I'm passionate about solving problems at the convergence of AI and Security:
+- 🤖 **AI Engineering:** Building intelligent systems using ML, Deep Learning, and LLMs
+- 🛡️ **Cybersecurity Engineering:** Securing systems through ethical hacking and defense strategies
+- 🔐 **AI Security:** Protecting AI systems from adversarial attacks and ensuring trustworthy AI deployment
 
-# 🔧 Skills (Growing Every Day)
-## **AI & Data**
-* Python for AI
-* Machine Learning
-* Data Science
-* Deep Learning (CNN, RNN, Transformers)
-* Data Analysis & Visualization
-* LLMs, RAG, Prompt Engineering
-* Generative AI
+My goal is to develop **robust AI solutions** that organizations can deploy confidently, knowing they're protected against evolving cyber threats.
 
-## **Cybersecurity**
-* Ethical Hacking Fundamentals
-* Network & Web Security
-* Linux & Scripting
-* Capture The Flag (CTF) practice
-* Cyber Defense Concepts
+## 🧠 What Drives Me
+### **The Intersection Matters**
+Modern security challenges require AI-driven solutions:
+- Threat detection systems that learn and adapt
+- Automated vulnerability assessment
+- Intelligent intrusion detection
+- Secure machine learning pipelines
 
-## **Software Engineering**
-* Git & GitHub
-* Software Development Basics
-* Algorithms & Data Structures
-* Clean Code Principles
+### **Both Sides of the Coin**
+I approach problems from dual perspectives:
+- **As an AI Engineer:** How can I build intelligent systems that solve real problems?
+- **As a Security Engineer:** How can I protect these systems from attacks and ensure they operate safely?
 
-## **IT Foundations**
-* Operating Systems (Windows, Linux)
-* Networking Essentials
-* Cloud & Virtualization Basics
+## 💼 Professional Experience
 
-# 🚀 Projects (Current & Upcoming)
+**🔹 AI Engineering Intern** | Training Edge Consulting | *July-August 2025*
+- Fine-tuned LLaMA 2-7B on Moroccan Darija dialect for NLP applications
+- Implemented transfer learning and model optimization techniques
+- Gained hands-on experience with large language model deployment
 
-Here I document my learning projects — small, medium, and long-term.
+**🔹 Web Development Team Lead** | CSIA Club (Cybersecurity & AI Club) | *2025*
+- Led development team for department cybersecurity initiatives
+- Managed cross-functional projects and mentored team members
 
-## **🟣 Active Projects**
+## 🛠️ Technical Arsenal
+### **🤖 AI & Machine Learning**
+```python
+# Core competencies
+ai_skills = {
+    "Machine Learning": ["Supervised Learning", "Deep Learning", "Model Optimization"],
+    "Deep Learning": ["CNN", "ANN", "Audio/Image Processing", "Transformers"],
+    "NLP": ["BERT Fine-tuning", "Text Classification", "LangChain", "LLMs"],
+    "Tools": ["Python", "TensorFlow", "PyTorch", "Scikit-learn"],
+    "Data Science": ["Data Analysis", "Statistical Modeling", "Visualization", "R"]
+}
+```
 
-* *AI & Cybersecurity learning projects*
+### **🛡️ Cybersecurity & Ethical Hacking**
+```python
+# Security toolkit
+security_skills = {
+    "Penetration Testing": ["ARP Spoofing", "MITM Attacks", "SQL Injection", "XSS"],
+    "Security Protocols": ["PKI Infrastructure", "Kerberos", "OAuth 2.0"],
+    "Tools": ["Kali Linux", "Fedora", "Keycloak", "Wireshark"],
+    "Concepts": ["Cryptography", "Network Security", "IAM", "IoT Security"],
+    "Cyber Defense": ["Threat Detection", "Incident Response", "Vulnerability Assessment"]
+}
+```
 
-## **🟢 Planned Monthly Projects**
+### **💻 Software Engineering & DevOps**
+```python
+# Development practices
+dev_skills = {
+    "Languages": ["Python", "C", "SQL", "R"],
+    "Version Control": ["Git", "GitHub"],
+    "Systems": ["Linux Administration", "Cloud Computing", "Virtualization"],
+    "Practices": ["Clean Code", "Algorithms", "Data Structures"]
+}
+```
 
-* AI for security use cases
-* Academic projects
-* Cybersecurity labs (write-ups)
+---
 
-## 📫 Connect With Me
-* **LinkedIn:** www.linkedin.com/in/khaoula-ettijani-ai-cyber
-* **Email:** khaoulaettijani19@gmail.com
-* **GitHub:** You’re already here 😊
+## 🚀 Featured Projects
 
-## 🌱 Continuous Improvement
-This repository will grow with me — every month, every skill, every project.
-It's my digital home for documenting my journey as an **AI & Cybersecurity Engineer**.
+### **🎵 Music Genre Classifier using CNN**
+*Deep Learning + Audio Processing*
+- Built convolutional neural network for automated music classification
+- Applied advanced audio feature extraction and signal processing
+- Achieved high accuracy through data augmentation and model optimization
+- **Tech Stack:** Python, PyTorch, CNN, Audio Signal Processing
+
+### **🤖 BERT-Based Question Answering System**
+*NLP + Transformer Models*
+- Fine-tuned BERT for multiple-choice question answering
+- Optimized transformer architecture for educational assessment
+- Conducted comprehensive error analysis and performance evaluation
+- **Tech Stack:** Python, BERT, Transformers, Fine-tuning, PyTorch
+
+### **🔒 Cryptographic Encoding/Decoding System**
+*Security + Algorithm Design*
+- Designed comprehensive encryption/decryption system for secure data transmission
+- Implemented symmetric and asymmetric encryption algorithms
+- Developed secure key management and distribution protocols
+- **Tech Stack:** Python, Cryptography, Security Protocols
+
+
+## 📚 Academic Background
+
+**🎓 National School of Applied Sciences of Beni Mellal (ENSA BM)**  
+*State Engineer's Degree in Artificial Intelligence and Cybersecurity*  
+*2021 - Present | Currently in 4th Year*
+
+### **Core Coursework:**
+**AI Track:**
+- Machine Learning & Deep Learning
+- Natural Language Processing
+- Computer Vision & Image Processing
+- Data Science & Statistical Analysis
+
+**Cybersecurity Track:**
+- Ethical Hacking & Penetration Testing
+- Identity & Access Management (PKI, Kerberos, OAuth 2.0)
+- Network Security & Cyber Defense
+- IoT Security & Edge Computing
+- Cryptography & Secure Communication
+
+**Current Semester:**
+- Secure Administration
+- DevOps & DevSecOps
+- Quantum IT
+- GRC
+
+---
+
+## 🌱 What I'm Currently Learning
+
+- **AI Security:** Adversarial ML, Model Robustness, Secure AI Pipelines
+- **DevSecOps:** Integrating security into CI/CD workflows
+- **Penetration Testing:** Red team methodologies
+- **Quantum Computing:** Post-quantum cryptography
+- **Threat Intelligence:** Proactive threat hunting techniques
+
+## 💡 Areas of Interest
+
+**AI Security & Trustworthy AI:**
+- Adversarial Machine Learning
+- Model Robustness & Testing
+- Privacy-Preserving ML
+- AI Ethics & Bias Detection
+
+**Cybersecurity Engineering:**
+- Penetration Testing & Red Teaming
+- Threat Detection & Response
+- Zero Trust Architecture
+
+**AI Engineering:**
+- Large Language Models
+- Computer Vision Applications
+- Natural Language Processing
+- Generative AI
+
+**Emerging Technologies:**
+- IoT Security
+- Quantum-Safe Cryptography
+- Blockchain Security
+- DevSecOps Automation
+
+
+## 📫 Let's Connect!
+
+I'm always interested in collaborating on projects at the intersection of AI and Security!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaoula-ettijani-ai-cyber)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaoulaettijani19@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+
+**Open to:**
+- 🤝 Collaboration on AI Security projects
+- 💼 Internship opportunities in Cybersecurity/AI
+- 🎓 Research partnerships
+- 💬 Knowledge sharing and mentorship
+
+
+---
+
+## 🏆 Achievements & Certifications
+
+*This section will grow as I progress!*
+
+- 🎓 AI & Cybersecurity Engineering Student
+- 🔬 LLM Fine-tuning Internship Completed
+- 👥 Led Web Development Team for CSIA Club
+- 📚 Multiple Academic Projects in AI & Security
+
+---
