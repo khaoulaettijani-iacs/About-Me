@@ -43,8 +43,7 @@ ai_skills = {
     "Machine Learning": ["Supervised Learning", "Deep Learning", "Model Optimization"],
     "Deep Learning": ["CNN", "ANN", "Audio/Image Processing", "Transformers"],
     "NLP": ["BERT Fine-tuning", "Text Classification", "LangChain", "LLMs"],
-    "Tools": ["Python", "TensorFlow", "PyTorch", "Scikit-learn"],
-    "Data Science": ["Data Analysis", "Statistical Modeling", "Visualization", "R"]
+    "Tools": ["Python", "PyTorch", "Scikit-learn"],
 }
 ```
 
@@ -56,7 +55,6 @@ security_skills = {
     "Security Protocols": ["PKI Infrastructure", "Kerberos", "OAuth 2.0"],
     "Tools": ["Kali Linux", "Fedora", "Keycloak", "Wireshark"],
     "Concepts": ["Cryptography", "Network Security", "IAM", "IoT Security"],
-    "Cyber Defense": ["Threat Detection", "Incident Response", "Vulnerability Assessment"]
 }
 ```
 
@@ -108,8 +106,7 @@ dev_skills = {
 - Machine Learning & Deep Learning
 - Natural Language Processing
 - Computer Vision & Image Processing
-- Data Science & Statistical Analysis
-
+- Audio Processing
 **Cybersecurity Track:**
 - Ethical Hacking & Penetration Testing
 - Identity & Access Management (PKI, Kerberos, OAuth 2.0)
@@ -122,16 +119,11 @@ dev_skills = {
 - DevOps & DevSecOps
 - Quantum IT
 - GRC
+- Digital Forensics
 
 ---
 
 ## 🌱 What I'm Currently Learning
-
-- **AI Security:** Adversarial ML, Model Robustness, Secure AI Pipelines
-- **DevSecOps:** Integrating security into CI/CD workflows
-- **Penetration Testing:** Red team methodologies
-- **Quantum Computing:** Post-quantum cryptography
-- **Threat Intelligence:** Proactive threat hunting techniques
 
 ## 💡 Areas of Interest
 
@@ -153,11 +145,7 @@ dev_skills = {
 - Generative AI
 
 **Emerging Technologies:**
-- IoT Security
-- Quantum-Safe Cryptography
 - Blockchain Security
-- DevSecOps Automation
-
 
 ## 📫 Let's Connect!
 
@@ -184,5 +172,6 @@ I'm always interested in collaborating on projects at the intersection of AI and
 - 🔬 LLM Fine-tuning Internship Completed
 - 👥 Led Web Development Team for CSIA Club
 - 📚 Multiple Academic Projects in AI & Security
+- Won third place in my first CTF competition
 
 ---
