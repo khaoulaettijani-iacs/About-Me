@@ -1,177 +1,164 @@
-# 👋 Hi, I'm Khaoula Ettijani
+<div align="center">
 
-## AI & Cybersecurity Engineering Student | Building Secure Intelligent Systems
-I'm on a mission to bridge **Artificial Intelligence** and **Cybersecurity** — creating intelligent systems that are not just powerful, but fundamentally secure and trustworthy.
+# 🛡️ KHAOULA ETTIJANI
+### AI and Cybersecurity Engineering Student | AI Security Researcher
 
-## 🎯 My Vision
-I'm passionate about solving problems at the convergence of AI and Security:
-- 🤖 **AI Engineering:** Building intelligent systems using ML, Deep Learning, and LLMs
-- 🛡️ **Cybersecurity Engineering:** Securing systems through ethical hacking and defense strategies
-- 🔐 **AI Security:** Protecting AI systems from adversarial attacks and ensuring trustworthy AI deployment
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaoula-ettijani-ai-cyber)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://khaoulaettijani-iacs.github.io/khaoulaettijani.github.io/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaoulaettijani19@gmail.com)
 
-My goal is to develop **robust AI solutions** that organizations can deploy confidently, knowing they're protected against evolving cyber threats.
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-## 🧠 What Drives Me
-### **The Intersection Matters**
-Modern security challenges require AI-driven solutions:
-- Threat detection systems that learn and adapt
-- Automated vulnerability assessment
-- Intelligent intrusion detection
-- Secure machine learning pipelines
+</div>
 
-### **Both Sides of the Coin**
-I approach problems from dual perspectives:
-- **As an AI Engineer:** How can I build intelligent systems that solve real problems?
-- **As a Security Engineer:** How can I protect these systems from attacks and ensure they operate safely?
+---
 
-## 💼 Professional Experience
+## 👋 About Me
+```python
+class CybersecurityEngineer:
+    def __init__(self):
+        self.name = "Khaoula Ettijani"
+        self.education = "4th Year AI & Cybersecurity Engineering @ ENSA Beni Mellal"
+    def current_focus(self):
+        return {
+            "primary": "SOC Analyst Skills (Threat Detection, Incident Response)",
+            "specialization": "AI Security (Adversarial ML, Model Security)",
+            "learning": ["Web Pentesting", "Network Security", "Security Automation"],
+            "competing": "CTF Competitions (MACC 2026)"
+        }
+    def seeking(self):
+        return "Summer 2026 Internship (PFA) - Cybersecurity Analyst / SOC Analyst"
+```
 
-**🔹 AI Engineering Intern** | Training Edge Consulting | *July-August 2025*
-- Fine-tuned LLaMA 2-7B on Moroccan Darija dialect for NLP applications
-- Implemented transfer learning and model optimization techniques
-- Gained hands-on experience with large language model deployment
+---
 
-**🔹 Web Development Team Lead** | CSIA Club (Cybersecurity & AI Club) | *2025*
-- Led development team for department cybersecurity initiatives
-- Managed cross-functional projects and mentored team members
+## 🎯 What Makes Me Different
+I'm building expertise in **AI** and **Cybersecurity**.
+**My unique positioning:**
+- 🔐 **Security Foundation:** Pentesting, network security, ethical hacking, SOC Analysis, Forensics
+- 🤖 **AI Understanding:** ML/DL, NLP, LLM fine-tuning, RAG architecture
+- 🛡️ **AI Security Focus:** Securing modern AI systems against emerging threats
+
+**Why this matters:** As AI becomes embedded everywhere, organizations need security professionals who understand both traditional infrastructure **AND** how AI models can be exploited.
+
+---
 
 ## 🛠️ Technical Arsenal
-### **🤖 AI & Machine Learning**
-```python
-# Core competencies
-ai_skills = {
-    "Machine Learning": ["Supervised Learning", "Deep Learning", "Model Optimization"],
-    "Deep Learning": ["CNN", "ANN", "Audio/Image Processing", "Transformers"],
-    "NLP": ["BERT Fine-tuning", "Text Classification", "LangChain", "LLMs"],
-    "Tools": ["Python", "PyTorch", "Scikit-learn"],
-}
-```
 
-### **🛡️ Cybersecurity & Ethical Hacking**
-```python
-# Security toolkit
-security_skills = {
-    "Penetration Testing": ["ARP Spoofing", "MITM Attacks", "SQL Injection", "XSS"],
-    "Security Protocols": ["PKI Infrastructure", "Kerberos", "OAuth 2.0"],
-    "Tools": ["Kali Linux", "Fedora", "Keycloak", "Wireshark"],
-    "Concepts": ["Cryptography", "Network Security", "IAM", "IoT Security"],
-}
-```
+### 🔐 Cybersecurity & Offensive Security
+![Kali Linux]
+![Wireshark]
+![Burp Suite]
+![Nmap]
+![John The Ripper]
+![Hydra]
 
-### **💻 Software Engineering & DevOps**
-```python
-# Development practices
-dev_skills = {
-    "Languages": ["Python", "C", "SQL", "R"],
-    "Version Control": ["Git", "GitHub"],
-    "Systems": ["Linux Administration", "Cloud Computing", "Virtualization"],
-    "Practices": ["Clean Code", "Algorithms", "Data Structures"]
-}
-```
+**Skills:** Penetration Testing • Web App Security • Network Security • Cryptography • IAM • Ethical Hacking • AI Security • Security Administration • Forensics • GDPR
+
+### 🤖 AI & Machine Learning
+![Python]
+![PyTorch]
+![Hugging Face]
+![Scikit-Learn]
+
+**Skills:** Deep Learning (CNN, ANN) • NLP • LLM Fine-Tuning • RAG • Transfer Learning • Computer Vision
+
+### 💻 Development & DevOps
+![Linux]
+![Git]
+![Flask]
+![SQL]
+![Docker]
+![Kubernetes]
+
+**Skills:** Bash Scripting • Linux Admin • Version Control • Security Automation • DevSecOps
 
 ---
 
-## 🚀 Featured Projects
 
-### **🎵 Music Genre Classifier using CNN**
-*Deep Learning + Audio Processing*
-- Built convolutional neural network for automated music classification
-- Applied advanced audio feature extraction and signal processing
-- Achieved high accuracy through data augmentation and model optimization
-- **Tech Stack:** Python, PyTorch, CNN, Audio Signal Processing
+## 🎓 Education & Certifications
 
-### **🤖 BERT-Based Question Answering System**
-*NLP + Transformer Models*
-- Fine-tuned BERT for multiple-choice question answering
-- Optimized transformer architecture for educational assessment
-- Conducted comprehensive error analysis and performance evaluation
-- **Tech Stack:** Python, BERT, Transformers, Fine-tuning, PyTorch
+**🏫 ENSA Beni Mellal** | State Engineer's Degree in AI & Cybersecurity  
+*2021 - 2027 | Currently 4th Year*
 
-### **🔒 Cryptographic Encoding/Decoding System**
-*Security + Algorithm Design*
-- Designed comprehensive encryption/decryption system for secure data transmission
-- Implemented symmetric and asymmetric encryption algorithms
-- Developed secure key management and distribution protocols
-- **Tech Stack:** Python, Cryptography, Security Protocols
-
-
-## 📚 Academic Background
-
-**🎓 National School of Applied Sciences of Beni Mellal (ENSA BM)**  
-*State Engineer's Degree in Artificial Intelligence and Cybersecurity*  
-*2021 - Present | Currently in 4th Year*
-
-### **Core Coursework:**
-**AI Track:**
-- Machine Learning & Deep Learning
-- Natural Language Processing
-- Computer Vision & Image Processing
-- Audio Processing
-**Cybersecurity Track:**
-- Ethical Hacking & Penetration Testing
-- Identity & Access Management (PKI, Kerberos, OAuth 2.0)
-- Network Security & Cyber Defense
-- IoT Security & Edge Computing
-- Cryptography & Secure Communication
-
-**Current Semester:**
-- Secure Administration
-- DevOps & DevSecOps
-- Quantum IT
-- GRC
-- Digital Forensics
+**Core Curriculum:**
+- **Cybersecurity:** Ethical Hacking, Penetration Testing, Network Security, Cryptography, IAM
+- **AI/ML:** Deep Learning, NLP, Computer Vision, LLM Fine-tuning
+- **Current:** Secure Administration, DevSecOps, Digital Forensics, Quantum IT
 
 ---
 
-## 🌱 What I'm Currently Learning
+##  Experience & Achievements
 
-## 💡 Areas of Interest
+**🚩 CTF Competitor** | *2025 - Present*
+- 🥉 **3rd Place** - First OnSite CTF Competition
+- 🎯 **MACC 2026** Participant ranked 182 among 1071
+- 🔧 Active on HackTheBox, TryHackMe, PicoCTF platforms
 
-**AI Security & Trustworthy AI:**
-- Adversarial Machine Learning
-- Model Robustness & Testing
-- Privacy-Preserving ML
-- AI Ethics & Bias Detection
+**🤖 AI Engineering Intern** | Training Edge Consulting | *Summer 2025*
+- Fine-tuned LLaMA-2 7B for Moroccan Darija using PEFT & QLoRA
+- Built data pipelines with web scraping (Scrapy, YouTube API)
+- Developed Flask-based model testing interface
 
-**Cybersecurity Engineering:**
-- Penetration Testing & Red Teaming
-- Threat Detection & Response
-- Zero Trust Architecture
+**💻 Web Development Cell Lead** | CSIA Club | *2024-2025*
+- Led technical team for cybersecurity club initiatives
+- Currently active member contributing to security projects
 
-**AI Engineering:**
-- Large Language Models
-- Computer Vision Applications
-- Natural Language Processing
-- Generative AI
+---
 
-**Emerging Technologies:**
-- Blockchain Security
+## 🌱 Current Learning Path
+```mermaid
+graph LR
+    A[🎯 Current Focus] --> B[SOC Analyst Skills]
+    A --> C[Web Pentesting]
+    A --> D[AI Security]
+    
+    B --> E[SIEM Analysis]
+    B --> F[Threat Detection]
+    B --> G[Incident Response]
+    
+    C --> H[OWASP Top 10]
+    C --> I[Burp Suite Mastery]
+    
+    D --> J[Adversarial ML]
+    D --> K[LLM Security]
+    
+    style A fill:#00FFFF,stroke:#FF00FF,color:#000
+    style B fill:#FF00FF,stroke:#00FFFF,color:#FFF
+    style C fill:#FF00FF,stroke:#00FFFF,color:#FFF
+    style D fill:#FF00FF,stroke:#00FFFF,color:#FFF
+```
+
+## 💼 Open to Opportunities
+**🎯 Seeking:** Summer 2026 Internship (PFA - 3 months)
+
+**Target Roles:**
+- ✅ SOC Analyst / Cybersecurity Analyst
+- ✅ Security Engineering Intern
+- ✅ Threat Intelligence Analyst
+- ✅ Penetration Testing Intern
+- ✅ AI Security Researcher
+
+**What I Bring:**
+- Strong cybersecurity foundations (pentesting, network security, ethical hacking)
+- AI/ML expertise (deep learning, NLP, LLM fine-tuning)
+- Security automation with Python
+- CTF competition experience
+- Growth mindset and passion for learning
+
+---
 
 ## 📫 Let's Connect!
 
-I'm always interested in collaborating on projects at the intersection of AI and Security!
+I'm always interested in:
+- 🤝 Collaborating on AI Security projects
+- 💼 Cybersecurity internship opportunities
+- 🎓 Security research partnerships
+- 💬 Knowledge sharing about AI + Security
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaoula-ettijani-ai-cyber)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaoulaettijani19@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaoulaettijani-iacs)
-
-**Open to:**
-- 🤝 Collaboration on AI Security projects
-- 💼 Internship opportunities in Cybersecurity/AI
-- 🎓 Research partnerships
-- 💬 Knowledge sharing and mentorship
-
-
----
-
-## 🏆 Achievements & Certifications
-
-*This section will grow as I progress!*
-
-- 🎓 AI & Cybersecurity Engineering Student
-- 🔬 LLM Fine-tuning Internship Completed
-- 👥 Led Web Development Team for CSIA Club
-- 📚 Multiple Academic Projects in AI & Security
-- Won third place in my first CTF competition
+**Best ways to reach me:**
+- 💼 [LinkedIn](https://www.linkedin.com/in/khaoula-ettijani-ai-cyber) - Professional networking
+- 🌐 [Portfolio](https://khaoulaettijani-iacs.github.io/khaoulaettijani.github.io/) - See my work
+- 📧 [Email](mailto:khaoulaettijani19@gmail.com) - Direct contact
 
 ---
