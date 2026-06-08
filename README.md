@@ -1,164 +1,203 @@
 <div align="center">
 
 # 🛡️ KHAOULA ETTIJANI
-### AI and Cybersecurity Engineering Student | AI Security Researcher
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaoula-ettijani-ai-cyber)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://khaoulaettijani-iacs.github.io/khaoulaettijani.github.io/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaoulaettijani19@gmail.com)
+### AI & Cybersecurity Engineering Student
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+### Cybersecurity Intern Candidate | Web Security · SOC · Security Automation · AI Security
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/khaoula-ettijani-ai-cyber)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E3A8A?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://khaoulaettijani-iacs.github.io/khaoulaettijani.github.io/)
+[![Email](https://img.shields.io/badge/Email-2563EB?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:khaoulaettijani19@gmail.com)
 
 </div>
 
 ---
 
 ## 👋 About Me
-```python
-class CybersecurityEngineer:
-    def __init__(self):
-        self.name = "Khaoula Ettijani"
-        self.education = "4th Year AI & Cybersecurity Engineering @ ENSA Beni Mellal"
-    def current_focus(self):
-        return {
-            "primary": "SOC Analyst Skills (Threat Detection, Incident Response)",
-            "specialization": "AI Security (Adversarial ML, Model Security)",
-            "learning": ["Web Pentesting", "Network Security", "Security Automation"],
-            "competing": "CTF Competitions (MACC 2026)"
-        }
-    def seeking(self):
-        return "Summer 2026 Internship (PFA) - Cybersecurity Analyst / SOC Analyst"
-```
+
+I am a 4th-year **Artificial Intelligence and Cybersecurity Engineering student** at **ENSA Beni Mellal**, currently preparing for a **Summer 2026 PFA internship**.
+
+My long-term goal is to become a **Cybersecurity Engineer** with strong foundations in:
+
+* Web Security
+* Network Security
+* Systems Security
+* Security Engineering
+* Offensive Security
+* SOC and Threat Detection
+* AI Security
+
+I am interested in both **offensive and defensive security**, especially areas where practical security engineering, automation, and AI can work together.
+
+My AI background helps me better understand modern intelligent systems and how they can be secured, tested, and attacked. I want AI to be a strong complementary skill that strengthens my cybersecurity profile, especially in fields such as **LLM Security, Prompt Injection, RAG Security, AI Security, and Security Automation**.
 
 ---
 
-## 🎯 What Makes Me Different
-I'm building expertise in **AI** and **Cybersecurity**.
-**My unique positioning:**
-- 🔐 **Security Foundation:** Pentesting, network security, ethical hacking, SOC Analysis, Forensics
-- 🤖 **AI Understanding:** ML/DL, NLP, LLM fine-tuning, RAG architecture
-- 🛡️ **AI Security Focus:** Securing modern AI systems against emerging threats
+## 🎯 Current Goal
 
-**Why this matters:** As AI becomes embedded everywhere, organizations need security professionals who understand both traditional infrastructure **AND** how AI models can be exploited.
+I am currently looking for a **3-month PFA internship for Summer 2026** in one of the following areas:
 
----
-
-## 🛠️ Technical Arsenal
-
-### 🔐 Cybersecurity & Offensive Security
-![Kali Linux]
-![Wireshark]
-![Burp Suite]
-![Nmap]
-![John The Ripper]
-![Hydra]
-
-**Skills:** Penetration Testing • Web App Security • Network Security • Cryptography • IAM • Ethical Hacking • AI Security • Security Administration • Forensics • GDPR
-
-### 🤖 AI & Machine Learning
-![Python]
-![PyTorch]
-![Hugging Face]
-![Scikit-Learn]
-
-**Skills:** Deep Learning (CNN, ANN) • NLP • LLM Fine-Tuning • RAG • Transfer Learning • Computer Vision
-
-### 💻 Development & DevOps
-![Linux]
-![Git]
-![Flask]
-![SQL]
-![Docker]
-![Kubernetes]
-
-**Skills:** Bash Scripting • Linux Admin • Version Control • Security Automation • DevSecOps
+* Cybersecurity / SOC Analysis
+* Security Engineering
+* Web Security / Penetration Testing
+* Threat Detection and Incident Response
+* Security Automation
+* AI Security / LLM Security
 
 ---
 
+## 🔐 Cybersecurity Focus Areas
 
-## 🎓 Education & Certifications
-
-**🏫 ENSA Beni Mellal** | State Engineer's Degree in AI & Cybersecurity  
-*2021 - 2027 | Currently 4th Year*
-
-**Core Curriculum:**
-- **Cybersecurity:** Ethical Hacking, Penetration Testing, Network Security, Cryptography, IAM
-- **AI/ML:** Deep Learning, NLP, Computer Vision, LLM Fine-tuning
-- **Current:** Secure Administration, DevSecOps, Digital Forensics, Quantum IT
-
----
-
-##  Experience & Achievements
-
-**🚩 CTF Competitor** | *2025 - Present*
-- 🥉 **3rd Place** - First OnSite CTF Competition
-- 🎯 **MACC 2026** Participant ranked 182 among 1071
-- 🔧 Active on HackTheBox, TryHackMe, PicoCTF platforms
-
-**🤖 AI Engineering Intern** | Training Edge Consulting | *Summer 2025*
-- Fine-tuned LLaMA-2 7B for Moroccan Darija using PEFT & QLoRA
-- Built data pipelines with web scraping (Scrapy, YouTube API)
-- Developed Flask-based model testing interface
-
-**💻 Web Development Cell Lead** | CSIA Club | *2024-2025*
-- Led technical team for cybersecurity club initiatives
-- Currently active member contributing to security projects
+| Area                 | Current Focus                                                     |
+| -------------------- | ----------------------------------------------------------------- |
+| Web Security         | OWASP Top 10, Burp Suite, vulnerability discovery, secure coding  |
+| Network Security     | Nmap, Wireshark, traffic analysis, network reconnaissance         |
+| SOC & Detection      | Log analysis, threat detection, incident response fundamentals    |
+| Offensive Security   | CTFs, enumeration, exploitation methodology, reporting            |
+| Security Engineering | automation, secure architecture, DevSecOps foundations            |
+| AI Security          | prompt injection, RAG security, adversarial ML, secure AI systems |
 
 ---
 
-## 🌱 Current Learning Path
+## 🤖 AI as a Cybersecurity Advantage
+
+I see AI as a complementary skill that can strengthen cybersecurity work in areas such as:
+
+* AI-powered security automation
+* Threat detection and log analysis
+* Secure AI application design
+* LLM Security
+* Prompt Injection testing
+* RAG Security
+* Adversarial Machine Learning
+* Model and data security
+
+My objective is not to move away from cybersecurity, but to build a profile where AI makes me a stronger and more adaptable cybersecurity engineer.
+
+---
+
+## 🧪 Projects & Portfolio Status
+
+My GitHub portfolio is currently being reviewed and reorganized to reflect a clear professional direction:
+
+> **Cybersecurity Engineer with AI Security skills**
+
+I am currently evaluating my existing repositories to decide which projects should be:
+
+* improved
+* rebuilt
+* archived
+* documented better
+* showcased professionally
+
+The final portfolio will focus on projects related to:
+
+* Web Security
+* Network Security
+* SOC and Threat Detection
+* Security Automation
+* Offensive Security
+* AI Security
+* LLM and RAG Security
+
+Each selected project will be improved with clear documentation, screenshots, diagrams, technical explanations, and security reports when relevant.
+
+---
+
+## 🛠️ Technical Skills
+
+### Cybersecurity
+
+`Kali Linux` · `Burp Suite` · `Wireshark` · `Nmap` · `John the Ripper` · `Hydra` · `Linux Security` · `CTFs` · `OWASP Top 10` · `Digital Forensics`
+
+### AI / Machine Learning
+
+`Python` · `PyTorch` · `Scikit-learn` · `Hugging Face` · `NLP` · `LLM Fine-tuning` · `RAG` · `Computer Vision`
+
+### Development & Engineering
+
+`Git` · `Linux` · `Bash` · `Flask` · `SQL` · `Docker` · `Security Automation` · `DevSecOps Basics`
+
+---
+
+## 🎓 Education
+
+**ENSA Beni Mellal**
+State Engineer Degree in Artificial Intelligence and Cybersecurity
+**2021 – 2027 | Currently 4th Year**
+
+Relevant coursework:
+
+* Ethical Hacking
+* Network Security
+* Cryptography
+* Identity and Access Management
+* Secure Administration
+* DevSecOps
+* Digital Forensics
+* Deep Learning
+* NLP
+* Computer Vision
+* LLM Fine-tuning
+
+---
+
+## 🏆 Experience & Achievements
+
+### 🚩 CTF Competitor
+
+* 3rd place — First OnSite CTF Competition
+* MACC 2026 participant — ranked 182 / 1071
+* Practicing on HackTheBox, TryHackMe, and PicoCTF
+
+### 🤖 AI Engineering Intern — Training Edge Consulting
+
+* Fine-tuned LLaMA-2 7B for Moroccan Darija using PEFT and QLoRA
+* Built data collection pipelines using Scrapy and YouTube API
+* Developed a Flask interface for model testing and experimentation
+
+### 💻 Web Development Cell Lead — CSIA Club
+
+* Led web development activities within a cybersecurity-focused student club
+* Contributed to technical initiatives, team coordination, and student projects
+
+---
+
+## 📍 Current Learning Roadmap
+
 ```mermaid
 graph LR
-    A[🎯 Current Focus] --> B[SOC Analyst Skills]
-    A --> C[Web Pentesting]
-    A --> D[AI Security]
-    
-    B --> E[SIEM Analysis]
-    B --> F[Threat Detection]
-    B --> G[Incident Response]
-    
-    C --> H[OWASP Top 10]
-    C --> I[Burp Suite Mastery]
-    
-    D --> J[Adversarial ML]
-    D --> K[LLM Security]
-    
-    style A fill:#00FFFF,stroke:#FF00FF,color:#000
-    style B fill:#FF00FF,stroke:#00FFFF,color:#FFF
-    style C fill:#FF00FF,stroke:#00FFFF,color:#FFF
-    style D fill:#FF00FF,stroke:#00FFFF,color:#FFF
+    A[Cybersecurity Engineering Goal] --> B[Web Security]
+    A --> C[SOC & Detection]
+    A --> D[Network Security]
+    A --> E[AI Security]
+
+    B --> B1[OWASP Top 10]
+    B --> B2[Burp Suite Practice]
+    B --> B3[Secure Coding]
+
+    C --> C1[Log Analysis]
+    C --> C2[Incident Response]
+    C --> C3[Threat Detection]
+
+    D --> D1[Wireshark]
+    D --> D2[Nmap]
+    D --> D3[Traffic Analysis]
+
+    E --> E1[Prompt Injection]
+    E --> E2[RAG Security]
+    E --> E3[LLM Security]
 ```
-
-## 💼 Open to Opportunities
-**🎯 Seeking:** Summer 2026 Internship (PFA - 3 months)
-
-**Target Roles:**
-- ✅ SOC Analyst / Cybersecurity Analyst
-- ✅ Security Engineering Intern
-- ✅ Threat Intelligence Analyst
-- ✅ Penetration Testing Intern
-- ✅ AI Security Researcher
-
-**What I Bring:**
-- Strong cybersecurity foundations (pentesting, network security, ethical hacking)
-- AI/ML expertise (deep learning, NLP, LLM fine-tuning)
-- Security automation with Python
-- CTF competition experience
-- Growth mindset and passion for learning
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Contact
 
-I'm always interested in:
-- 🤝 Collaborating on AI Security projects
-- 💼 Cybersecurity internship opportunities
-- 🎓 Security research partnerships
-- 💬 Knowledge sharing about AI + Security
+I am open to cybersecurity internship opportunities, AI Security collaborations, CTF discussions, and technical projects.
 
-**Best ways to reach me:**
-- 💼 [LinkedIn](https://www.linkedin.com/in/khaoula-ettijani-ai-cyber) - Professional networking
-- 🌐 [Portfolio](https://khaoulaettijani-iacs.github.io/khaoulaettijani.github.io/) - See my work
-- 📧 [Email](mailto:khaoulaettijani19@gmail.com) - Direct contact
+* LinkedIn: [khaoula-ettijani-ai-cyber](https://www.linkedin.com/in/khaoula-ettijani-ai-cyber)
+* Portfolio: [khaoulaettijani-iacs.github.io](https://khaoulaettijani-iacs.github.io/khaoulaettijani.github.io/)
+* Email: [khaoulaettijani19@gmail.com](mailto:khaoulaettijani19@gmail.com)
 
 ---
