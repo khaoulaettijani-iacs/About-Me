@@ -2,9 +2,9 @@
 
 # 🛡️ KHAOULA ETTIJANI
 
-### AI & Cybersecurity Engineering Student
+### AI & Cybersecurity Engineering Student 
 
-### Cybersecurity Intern Candidate | Web Security · SOC · Security Automation · AI Security
+### Building foundations in SOC, IAM/GRC, and offensive security, with AI as a supporting skill.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/khaoula-ettijani-ai-cyber)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1E3A8A?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://khaoulaettijani-iacs.github.io/khaoulaettijani.github.io/)
