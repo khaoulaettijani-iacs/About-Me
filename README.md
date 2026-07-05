@@ -2,13 +2,12 @@
 
 # 🛡️ KHAOULA ETTIJANI
 
-### AI & Cybersecurity Engineering Student 
+### AI & Cybersecurity Engineering Student
+### Building foundations in SOC, IAM/GRC, and Offensive Security — AI as a supporting skill
 
-### Building skills in SOC, IAM/GRC, and offensive security, with AI as a supporting skill.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/khaoula-ettijani-ai-cyber)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1E3A8A?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://khaoulaettijani-iacs.github.io/khaoulaettijani.github.io/)
-[![Email](https://img.shields.io/badge/Email-2563EB?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:khaoulaettijani19@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaoula-ettijani-ai-cyber)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E3A8A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://khaoulaettijani-iacs.github.io/khaoulaettijani.github.io/)
+[![Email](https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaoulaettijani19@gmail.com)
 
 </div>
 
@@ -16,160 +15,98 @@
 
 ## 👋 About Me
 
-I'm a 4th-year Artificial Intelligence and Cybersecurity Engineering student at ENSA Beni Mellal, currently building SENTRA, a SOC platform project for my end-of-year internship. I'm building skills across defensive security (SOC, log analysis, detection), offensive security fundamentals (CTFs, enumeration, exploitation methodology), and IAM/GRC/security administration, which is my intended specialization direction. My AI/ML background supports this vision — I use it in detection modeling and, longer-term, AI/LLM security.
+I'm a 4th-year **Artificial Intelligence and Cybersecurity Engineering student** at **ENSA Beni Mellal**, currently building **SENTRA**, a SOC platform project — ML-assisted detection combined with a rule-based IDS and an ELK Stack SIEM — for my end-of-year internship (PFE).
+
+I'm building foundations across:
+
+- **Defensive security** — SOC fundamentals, log analysis, detection engineering
+- **Offensive security foundations** — CTFs, enumeration, exploitation methodology
+- **IAM / GRC / security administration** — my intended specialization direction
+
+My AI/ML background supports this work rather than replacing it. I use it where it adds real value — detection modeling in SENTRA now, and AI/LLM security longer-term. I document labs and projects publicly as I build them, rather than after the fact.
 
 ---
 
-## 🎯 Current Goal
+## 🎯 Current Focus
 
-I am currently looking for a **3-month PFA internship for Summer 2026** in one of the following areas:
-
-* Cybersecurity / SOC Analysis
-* Security Engineering
-* Web Security / Penetration Testing
-* Threat Detection and Incident Response
-* Security Automation
-* AI Security / LLM Security
+**SENTRA — SOC Platform (PFE Project)**
+A controlled-lab SOC combining a rule-based IDS, ML-based detection (Random Forest / Isolation Forest), an ELK Stack SIEM, and NLG-based incident reporting, validated against a simulated attack environment.
+📄 Full documentation and architecture: link added once the repo goes public.
 
 ---
 
-## 🔐 Cybersecurity Focus Areas
+## 🧭 Career Direction
 
-| Area                 | Current Focus                                                     |
-| -------------------- | ----------------------------------------------------------------- |
-| Web Security         | OWASP Top 10, Burp Suite, vulnerability discovery, secure coding  |
-| Network Security     | Nmap, Wireshark, traffic analysis, network reconnaissance         |
-| SOC & Detection      | Log analysis, threat detection, incident response fundamentals    |
-| Offensive Security   | CTFs, enumeration, exploitation methodology, reporting            |
-| Security Engineering | automation, secure architecture, DevSecOps foundations            |
-| AI Security          | prompt injection, RAG security, adversarial ML, secure AI systems |
+Year 1 of my career plan is focused on generalist cybersecurity foundations with an **IAM/GRC/audit** tilt: networking, Linux/Windows administration, IAM, GRC, SOC basics, log analysis, incident response, web security, and Python for security — alongside CTF practice (PicoCTF this year, progressing to TryHackMe and HackTheBox in later years).
+
+Longer-term direction: Year 2 — Blue Team/SOC maturity → Year 3 — Cloud security → Year 4 — Offensive security depth → Year 5 — AI security.
 
 ---
 
-## 🤖 AI as a Cybersecurity Advantage
+## 🛠️ Skills
 
-I see AI as a complementary skill that can strengthen cybersecurity work in areas such as:
+*Tiered honestly — not everything below is at the same level, and I'd rather show that clearly than inflate it.*
 
-* AI-powered security automation
-* Threat detection and log analysis
-* Secure AI application design
-* LLM Security
-* Prompt Injection testing
-* RAG Security
-* Adversarial Machine Learning
-* Model and data security
+**✅ Used in projects/labs**
+`Python` · `Flask` · `Git/GitHub` · `Linux` · `Nmap` · `Wireshark` · `Burp Suite` · `ELK Stack` (via SENTRA) · `Suricata` (via SENTRA)
 
-My objective is not to move away from cybersecurity, but to build a profile where AI makes me a stronger and more adaptable cybersecurity engineer.
+**🔧 Practiced in academic/lab exercises**
+`OWASP Top 10 testing` · `John the Ripper` · `Hydra` · `Random Forest / Isolation Forest` · `Basic digital forensics`
 
----
+**📘 Currently learning / building foundations in**
+`IAM concepts (Keycloak, OAuth2, MFA)` · `GRC & audit frameworks` · `Incident response` · `Docker / DevSecOps basics`
 
-## 🧪 Projects & Portfolio Status
-
-My GitHub portfolio is currently being reviewed and reorganized to reflect a clear professional direction:
-
-> **Cybersecurity Engineer with AI Security skills**
-
-I am currently evaluating my existing repositories to decide which projects should be:
-
-* improved
-* rebuilt
-* archived
-* documented better
-* showcased professionally
-
-The final portfolio will focus on projects related to:
-
-* Web Security
-* Network Security
-* SOC and Threat Detection
-* Security Automation
-* Offensive Security
-* AI Security
-* LLM and RAG Security
-
-Each selected project will be improved with clear documentation, screenshots, diagrams, technical explanations, and security reports when relevant.
+**🔍 Exploring**
+`LLM / RAG security` · `Prompt injection testing` · `Adversarial ML`
 
 ---
 
-## 🛠️ Technical Skills
+## 🏆 Experience & Achievements
 
-### Cybersecurity
+**🚩 CTF Competitor**
+- 3rd place — First OnSite CTF Competition
+- MACC 2026 — ranked 182 / 1071
+- Practicing on PicoCTF, with TryHackMe and HackTheBox planned for later years
 
-`Linux basics` · `Burp Suite` · `Wireshark` · `Nmap` · `John the Ripper` · `Hydra` · `Linux Security` · `Suricata` · `OWASP Top 10 testing` · `ELK Stack`· `digital forensics basics`
+**🤖 AI Engineering Intern — Training Edge Consulting**
+- Fine-tuned LLaMA-2 7B for Moroccan Darija using PEFT and QLoRA
+- Built data collection pipelines using Scrapy and the YouTube API
+- Developed a Flask interface for model testing
 
-### AI / Machine Learning
-
-`Python` · `PyTorch` · `Scikit-learn` · `Hugging Face` · `NLP` · `LLM Fine-tuning` · `RAG` · `Computer Vision`
-
-### Development & Engineering
-
-`Git` · `GitHub`· `Linux` · `Bash` · `Flask` · `SQL` · `Docker` · `Security Automation` · `DevSecOps Basics`
+**💻 Web Development Cell Lead — CSIA Club**
+- Led web development activities within a cybersecurity-focused student club
+- Contributed to technical initiatives and student project coordination
 
 ---
 
 ## 🎓 Education
 
 **ENSA Beni Mellal**
-State Engineer Degree in Artificial Intelligence and Cybersecurity
-**2021 – 2027 | Currently 4th Year**
+State Engineer Degree — Artificial Intelligence and Cybersecurity
+2021 – 2027 | Currently 4th Year
 
-Relevant coursework:
-
-* Ethical Hacking
-* Network Security
-* Cryptography
-* Identity and Access Management
-* Secure Administration
-* DevSecOps
-* Digital Forensics
-* Deep Learning
-* NLP
-* Computer Vision
-* LLM Fine-tuning
+Relevant coursework: Ethical Hacking · Network Security · Cryptography · Identity and Access Management · Secure Administration · DevSecOps · Digital Forensics · Deep Learning · NLP · Computer Vision · LLM Fine-tuning
 
 ---
 
-## 🏆 Experience & Achievements
-
-### 🚩 CTF Competitor
-
-* 3rd place — First OnSite CTF Competition
-* MACC 2026 participant — ranked 182 / 1071
-* Practicing on HackTheBox, TryHackMe, and PicoCTF
-
-### 🤖 AI Engineering Intern — Training Edge Consulting
-
-* Fine-tuned LLaMA-2 7B for Moroccan Darija using PEFT and QLoRA
-* Built data collection pipelines using Scrapy and YouTube API
-* Developed a Flask interface for model testing and experimentation
-
-### 💻 Web Development Cell Lead — CSIA Club
-
-* Led web development activities within a cybersecurity-focused student club
-* Contributed to technical initiatives, team coordination, and student projects
-
----
-
-## 📍 Current Learning Roadmap
+## 📍 Learning Roadmap
 
 ```mermaid
 graph LR
-    A[Cybersecurity Engineering Goal] --> B[Web Security]
+    A[Cybersecurity Engineering Goal] --> B[IAM / GRC / Audit]
     A --> C[SOC & Detection]
-    A --> D[Network Security]
+    A --> D[Offensive Foundations]
     A --> E[AI Security]
 
-    B --> B1[OWASP Top 10]
-    B --> B2[Burp Suite Practice]
-    B --> B3[Secure Coding]
+    B --> B1[Keycloak / OAuth2 / MFA]
+    B --> B2[Audit & Risk Frameworks]
 
     C --> C1[Log Analysis]
     C --> C2[Incident Response]
-    C --> C3[Threat Detection]
+    C --> C3[SENTRA - SOC Platform]
 
-    D --> D1[Wireshark]
-    D --> D2[Nmap]
-    D --> D3[Traffic Analysis]
+    D --> D1[CTFs - PicoCTF]
+    D --> D2[Enumeration & Exploitation]
 
     E --> E1[Prompt Injection]
     E --> E2[RAG Security]
@@ -180,10 +117,8 @@ graph LR
 
 ## 📫 Contact
 
-I am open to cybersecurity internship opportunities, AI Security collaborations, CTF discussions, and technical projects.
+Open to PFE internship opportunities in cybersecurity, SOC analysis, IAM/GRC, and security engineering.
 
-* LinkedIn: [khaoula-ettijani-ai-cyber](https://www.linkedin.com/in/khaoula-ettijani-ai-cyber)
-* Portfolio: [khaoulaettijani-iacs.github.io](https://khaoulaettijani-iacs.github.io/khaoulaettijani.github.io/)
-* Email: [khaoulaettijani19@gmail.com](mailto:khaoulaettijani19@gmail.com)
-
----
+- LinkedIn: [khaoula-ettijani-ai-cyber](https://www.linkedin.com/in/khaoula-ettijani-ai-cyber)
+- Portfolio: [khaoulaettijani-iacs.github.io](https://khaoulaettijani-iacs.github.io/khaoulaettijani.github.io/)
+- Email: [khaoulaettijani19@gmail.com](mailto:khaoulaettijani19@gmail.com)
