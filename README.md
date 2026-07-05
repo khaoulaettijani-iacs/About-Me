@@ -16,21 +16,7 @@
 
 ## 👋 About Me
 
-I am a 4th-year **Artificial Intelligence and Cybersecurity Engineering student** at **ENSA Beni Mellal**, currently preparing for a **Summer 2026 PFA internship**.
-
-My long-term goal is to become a **Cybersecurity Engineer** with strong foundations in:
-
-* Web Security
-* Network Security
-* Systems Security
-* Security Engineering
-* Offensive Security
-* SOC and Threat Detection
-* AI Security
-
-I am interested in both **offensive and defensive security**, especially areas where practical security engineering, automation, and AI can work together.
-
-My AI background helps me better understand modern intelligent systems and how they can be secured, tested, and attacked. I want AI to be a strong complementary skill that strengthens my cybersecurity profile, especially in fields such as **LLM Security, Prompt Injection, RAG Security, AI Security, and Security Automation**.
+I'm a 4th-year Artificial Intelligence and Cybersecurity Engineering student at ENSA Beni Mellal, currently building SENTRA, a SOC platform project for my end-of-year internship. I'm building skills across defensive security (SOC, log analysis, detection), offensive security fundamentals (CTFs, enumeration, exploitation methodology), and IAM/GRC/security administration, which is my intended specialization direction. My AI/ML background supports this vision — I use it in detection modeling and, longer-term, AI/LLM security.
 
 ---
 
