@@ -74,8 +74,7 @@ Longer-term direction: Blue Team/SOC, Cloud security, Offensive security depth, 
 - Developed a Flask interface for model testing
 
 **💻 Web Development Cell Lead — CSIA Club**
-- Led web development activities within a cybersecurity-focused student club
-- Contributed to technical initiatives and student project coordination
+- Contributed to organizing activities and events
 
 ---
 
@@ -85,7 +84,7 @@ Longer-term direction: Blue Team/SOC, Cloud security, Offensive security depth, 
 State Engineer Degree — Artificial Intelligence and Cybersecurity
 2021 – 2027 | Currently 4th Year
 
-Relevant coursework: Ethical Hacking · Network Security · Cryptography · Identity and Access Management · Secure Administration · DevSecOps · Digital Forensics · Deep Learning · NLP · Computer Vision · LLM Fine-tuning
+Relevant coursework: Ethical Hacking · Cryptography · Identity and Access Management · Secure Administration · DevSecOps · Digital Forensics · Machine Learning · Deep Learning  
 
 ---
 
