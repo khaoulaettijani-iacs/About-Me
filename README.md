@@ -92,7 +92,7 @@ Relevant coursework: Ethical Hacking · Cryptography · Identity and Access Mana
 
 ```mermaid
 graph LR
-    A[Cybersecurity Engineering Goal] --> B[IAM / GRC / Audit]
+    A[Cybersecurity ] --> B[IAM / GRC / Audit]
     A --> C[SOC & Detection]
     A --> D[Offensive Foundations]
     A --> E[AI Security]
@@ -102,7 +102,6 @@ graph LR
 
     C --> C1[Log Analysis]
     C --> C2[Incident Response]
-    C --> C3[SENTRA - SOC Platform]
 
     D --> D1[CTFs - PicoCTF]
     D --> D2[Enumeration & Exploitation]
