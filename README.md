@@ -45,15 +45,19 @@ Longer-term direction: Blue Team/SOC, Cloud security, Offensive security depth, 
 ## 🛠️ Skills
 
 **Cybersecurity**
+
 `Linux` · `Nmap` · `Wireshark` · `Burp Suite` · `ELK Stack` · `Suricata`·`OWASP Top 10 testing` · `John the Ripper` · `Hydra`·`Basic digital forensics`· `IAM concepts (Keycloak, OAuth2, MFA)` · `GRC & audit frameworks` · `Incident response`
 
 **Artificial Intelligence**
+
  `Random Forest / Isolation Forest`  
 
 **development and DevOps**
+
 `Python` · `Flask` · `Git/GitHub`  · `Docker / DevSecOps basics`
 
 **AI Security**
+
 `LLM / RAG security` · `Prompt injection testing` · `Adversarial ML`
 
 ---
