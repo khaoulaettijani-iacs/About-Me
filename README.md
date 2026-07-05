@@ -95,7 +95,7 @@ Each selected project will be improved with clear documentation, screenshots, di
 
 ### Cybersecurity
 
-`Kali Linux` · `Burp Suite` · `Wireshark` · `Nmap` · `John the Ripper` · `Hydra` · `Linux Security` · `CTFs` · `OWASP Top 10` · `Digital Forensics`
+`Linux basics` · `Burp Suite` · `Wireshark` · `Nmap` · `John the Ripper` · `Hydra` · `Linux Security` · `Suricata` · `OWASP Top 10 testing` · `ELK Stack`· `digital forensics basics`
 
 ### AI / Machine Learning
 
@@ -103,7 +103,7 @@ Each selected project will be improved with clear documentation, screenshots, di
 
 ### Development & Engineering
 
-`Git` · `Linux` · `Bash` · `Flask` · `SQL` · `Docker` · `Security Automation` · `DevSecOps Basics`
+`Git` · `GitHub`· `Linux` · `Bash` · `Flask` · `SQL` · `Docker` · `Security Automation` · `DevSecOps Basics`
 
 ---
 
