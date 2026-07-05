@@ -36,9 +36,9 @@ A controlled-lab SOC combining a rule-based IDS, ML-based detection (Random Fore
 
 ## 🧭 Career Direction
 
-Year 1 of my career plan is focused on generalist cybersecurity foundations with an **IAM/GRC/audit** tilt: networking, Linux/Windows administration, IAM, GRC, SOC basics, log analysis, incident response, web security, and Python for security — alongside CTF practice (PicoCTF this year, progressing to TryHackMe and HackTheBox in later years).
+My current career plan is focused on mastering cybersecurity foundations skills with an **IAM/GRC/audit** orientation: networking, Linux/Windows administration, IAM, GRC, SOC basics, log analysis, incident response, web security, and Python for security alongside CTF practice.
 
-Longer-term direction: Year 2 — Blue Team/SOC maturity → Year 3 — Cloud security → Year 4 — Offensive security depth → Year 5 — AI security.
+Longer-term direction: Blue Team/SOC, Cloud security, Offensive security depth, AI security.
 
 ---
 
