@@ -44,18 +44,16 @@ Longer-term direction: Blue Team/SOC, Cloud security, Offensive security depth, 
 
 ## 🛠️ Skills
 
-*Tiered honestly — not everything below is at the same level, and I'd rather show that clearly than inflate it.*
+**Cybersecurity**
+`Linux` · `Nmap` · `Wireshark` · `Burp Suite` · `ELK Stack` · `Suricata`·`OWASP Top 10 testing` · `John the Ripper` · `Hydra`·`Basic digital forensics`· `IAM concepts (Keycloak, OAuth2, MFA)` · `GRC & audit frameworks` · `Incident response`
 
-**✅ Used in projects/labs**
-`Python` · `Flask` · `Git/GitHub` · `Linux` · `Nmap` · `Wireshark` · `Burp Suite` · `ELK Stack` (via SENTRA) · `Suricata` (via SENTRA)
+**Artificial Intelligence**
+ `Random Forest / Isolation Forest`  
 
-**🔧 Practiced in academic/lab exercises**
-`OWASP Top 10 testing` · `John the Ripper` · `Hydra` · `Random Forest / Isolation Forest` · `Basic digital forensics`
+**development and DevOps**
+`Python` · `Flask` · `Git/GitHub`  · `Docker / DevSecOps basics`
 
-**📘 Currently learning / building foundations in**
-`IAM concepts (Keycloak, OAuth2, MFA)` · `GRC & audit frameworks` · `Incident response` · `Docker / DevSecOps basics`
-
-**🔍 Exploring**
+**AI Security**
 `LLM / RAG security` · `Prompt injection testing` · `Adversarial ML`
 
 ---
@@ -63,9 +61,8 @@ Longer-term direction: Blue Team/SOC, Cloud security, Offensive security depth, 
 ## 🏆 Experience & Achievements
 
 **🚩 CTF Competitor**
-- 3rd place — First OnSite CTF Competition
+- 3rd place — First OnSite CTF Competition - EST BM 
 - MACC 2026 — ranked 182 / 1071
-- Practicing on PicoCTF, with TryHackMe and HackTheBox planned for later years
 
 **🤖 AI Engineering Intern — Training Edge Consulting**
 - Fine-tuned LLaMA-2 7B for Moroccan Darija using PEFT and QLoRA
