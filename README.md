@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-I'm a 4th-year **Artificial Intelligence and Cybersecurity Engineering student** at **ENSA Beni Mellal**, currently building **SENTRA**, a SOC platform project — ML-assisted detection combined with a rule-based IDS and an ELK Stack SIEM — for my end-of-year internship (PFE).
+I'm a 4th-year **Artificial Intelligence and Cybersecurity Engineering student** at **ENSA Beni Mellal**, currently building **SENTRA**, a SOC platform project for my end-of-year internship (PFA).
 
 I'm building foundations across:
 
@@ -23,7 +23,7 @@ I'm building foundations across:
 - **Offensive security foundations** — CTFs, enumeration, exploitation methodology
 - **IAM / GRC / security administration** — my intended specialization direction
 
-My AI/ML background supports this work rather than replacing it. I use it where it adds real value — detection modeling in SENTRA now, and AI/LLM security longer-term. I document labs and projects publicly as I build them, rather than after the fact.
+My AI/ML background supports this vision. I use it with detection modeling and AI/LLM security longer-term.
 
 ---
 
