@@ -3,7 +3,7 @@
 # 🛡️ KHAOULA ETTIJANI
 
 ### AI & Cybersecurity Engineering Student
-### Building foundations in SOC, IAM/GRC, and Offensive Security — AI as a supporting skill
+### Building skills in SOC, IAM/GRC, and Offensive Security — AI as a supporting skill
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaoula-ettijani-ai-cyber)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1E3A8A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://khaoulaettijani-iacs.github.io/khaoulaettijani.github.io/)
