@@ -29,9 +29,9 @@ My AI/ML background supports this vision. I use it with detection modeling and A
 
 ## 🎯 Current Focus
 
-**SENTRA — SOC Platform (PFE Project)**
+**SENTRA — SOC Platform (PFA Project)**
 A controlled-lab SOC combining a rule-based IDS, ML-based detection (Random Forest / Isolation Forest), an ELK Stack SIEM, and NLG-based incident reporting, validated against a simulated attack environment.
-📄 Full documentation and architecture: link added once the repo goes public.
+📄 Full documentation and architecture: link added once the project is completed.
 
 ---
 
